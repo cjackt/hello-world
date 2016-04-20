@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi!
+
+This is the a page for CIT project.
